@@ -27,8 +27,8 @@ url: 'https://blog.flupp.de'
 github:
   username: koppor             # change to your github username
 
-twitter:
-  username: koppor            # change to your twitter username
+#twitter:
+#  username: koppor            # change to your twitter username
 
 social:
   # Change to your full name.
