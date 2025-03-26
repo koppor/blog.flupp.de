@@ -74,7 +74,7 @@ gitGraph
     merge feature-1
 ```
 
-Second, all changes of `upsteram/main` without the squash merge need to go into `feature-2`:
+Second, all changes of `upstream/main` without the squash merge need to go into `feature-2`:
 
 ```terminal
 git fetch upstream
