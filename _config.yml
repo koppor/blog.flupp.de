@@ -37,7 +37,7 @@ social:
   email: kopp.dev@gmail.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/koppor      # change to your twitter homepage
+    # - https://twitter.com/koppor      # change to your twitter homepage
     - https://github.com/koppor       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
